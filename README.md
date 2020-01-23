@@ -1,1 +1,1 @@
-# KVIToken
+# KVIToken logo
